@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\08\\Desktop\\MiTerminalPersonalizada\\MiTerminalPersonalizada.csproj",
+      "projectUniqueName": "C:\\Users\\08\\Desktop\\MiTerminalPersonalizada-WindoForm-Windows-Terminal-JohansitoDev\\MiTerminalPersonalizada.csproj",
       "projectName": "MiTerminalPersonalizada",
-      "projectPath": "C:\\Users\\08\\Desktop\\MiTerminalPersonalizada\\MiTerminalPersonalizada.csproj",
+      "projectPath": "C:\\Users\\08\\Desktop\\MiTerminalPersonalizada-WindoForm-Windows-Terminal-JohansitoDev\\MiTerminalPersonalizada.csproj",
       "packagesPath": "C:\\Users\\08\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\08\\Desktop\\MiTerminalPersonalizada\\obj\\",
+      "outputPath": "C:\\Users\\08\\Desktop\\MiTerminalPersonalizada-WindoForm-Windows-Terminal-JohansitoDev\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\08\\AppData\\Roaming\\NuGet\\NuGet.Config"
