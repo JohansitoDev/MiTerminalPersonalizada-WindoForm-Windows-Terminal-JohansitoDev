@@ -1,0 +1,15 @@
+C:\Users\08\Desktop\MiTerminalPersonalizada\bin\Debug\net9.0-windows\MiTerminalPersonalizada.exe
+C:\Users\08\Desktop\MiTerminalPersonalizada\bin\Debug\net9.0-windows\MiTerminalPersonalizada.deps.json
+C:\Users\08\Desktop\MiTerminalPersonalizada\bin\Debug\net9.0-windows\MiTerminalPersonalizada.runtimeconfig.json
+C:\Users\08\Desktop\MiTerminalPersonalizada\bin\Debug\net9.0-windows\MiTerminalPersonalizada.dll
+C:\Users\08\Desktop\MiTerminalPersonalizada\bin\Debug\net9.0-windows\MiTerminalPersonalizada.pdb
+C:\Users\08\Desktop\MiTerminalPersonalizada\obj\Debug\net9.0-windows\MiTerminalPersonalizada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\08\Desktop\MiTerminalPersonalizada\obj\Debug\net9.0-windows\MiTerminalPersonalizada.AssemblyInfoInputs.cache
+C:\Users\08\Desktop\MiTerminalPersonalizada\obj\Debug\net9.0-windows\MiTerminalPersonalizada.AssemblyInfo.cs
+C:\Users\08\Desktop\MiTerminalPersonalizada\obj\Debug\net9.0-windows\MiTerminalPersonalizada.csproj.CoreCompileInputs.cache
+C:\Users\08\Desktop\MiTerminalPersonalizada\obj\Debug\net9.0-windows\MiTerminalPersonalizada.sourcelink.json
+C:\Users\08\Desktop\MiTerminalPersonalizada\obj\Debug\net9.0-windows\MiTerminalPersonalizada.dll
+C:\Users\08\Desktop\MiTerminalPersonalizada\obj\Debug\net9.0-windows\refint\MiTerminalPersonalizada.dll
+C:\Users\08\Desktop\MiTerminalPersonalizada\obj\Debug\net9.0-windows\MiTerminalPersonalizada.pdb
+C:\Users\08\Desktop\MiTerminalPersonalizada\obj\Debug\net9.0-windows\MiTerminalPersonalizada.genruntimeconfig.cache
+C:\Users\08\Desktop\MiTerminalPersonalizada\obj\Debug\net9.0-windows\ref\MiTerminalPersonalizada.dll

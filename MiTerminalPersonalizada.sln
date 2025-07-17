@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiTerminalPersonalizada", "MiTerminalPersonalizada.csproj", "{17EE65C4-69BD-5E04-32D1-4F0947E50E9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17EE65C4-69BD-5E04-32D1-4F0947E50E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17EE65C4-69BD-5E04-32D1-4F0947E50E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17EE65C4-69BD-5E04-32D1-4F0947E50E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17EE65C4-69BD-5E04-32D1-4F0947E50E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D320A585-47E8-48D0-AB12-CEA8D4BDF619}
+	EndGlobalSection
+EndGlobal
